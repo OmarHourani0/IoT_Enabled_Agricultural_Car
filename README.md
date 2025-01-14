@@ -11,7 +11,7 @@ Welcome to the IoT Enabled Agricultural Car page. This repository houses the sou
 - <span style="color:blue">[Requirements](#requirements)</span>
 - <span style="color:blue">[Hardware Setup](#hardware-setup)</span>
 - <span style="color:blue">[Software Setup](#software-setup)</span>
-- <span style="color:blue">[Other](#other)</span>
+- <span style="color:blue">[Explaination of Codes and Scripts](#Explaination of Codes and Scripts)</span>
 
 # Requirements
 - PIC16F877A microcontroller

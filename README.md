@@ -24,3 +24,4 @@ Welcome to the IoT Enabled Agricultural Car page. This repository houses the sou
 - 5V Battery
 
 # Hardware Setup
+![Hardware Setup](Pictures/Schematic.jpg)

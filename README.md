@@ -22,7 +22,7 @@ Welcome to the IoT Enabled Agricultural Car page. This repository houses the sou
 - LEDs
 - 4 DC Motors
 - Servo Motor
-- Motor Driver(H-Bridge)
+- Motor Driver (H-Bridge)
 - Bluetooth HC-06
 - CRYSTAL Oscillator (8 MHz)
 - 12V Battery

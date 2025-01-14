@@ -25,3 +25,27 @@ Welcome to the IoT Enabled Agricultural Car page. This repository houses the sou
 
 # Hardware Setup
 ![Hardware Setup](Pictures/Schematic.jpg)
+
+
+# Software Setup
+All the codes and scripts for this project can be found on this GitHub page. 
+
+# Explaination of Codes and Scripts
+
+## PIC16F877A Code
+The code for the PIC consists of multiple functions that work independently ensuring no clashes occur. Every peripheral is read from a seperate function, and every actuator is controlled by a seperate function. There are functions that make UART communication possible so the PIC can communicate with the PC via bluetooth. 
+
+The PIC code keeps listeining on an open port, when a specific command is received an action is taken. There is a command that requests data from the PIC, then the data is sent to the PC in CSV format. 
+
+## Python Script
+We wrote two python scripts, one works on Windows and the other works on Unix based machines. The script works as follows:
+1) A connection is established with the bluetooth module.
+2) Credintials for the ThingSpeak platform are defined.
+3) A simple UI is initialised to control the PIC.
+4) A specific command that requests data from the PIC every 2 seconds.
+5) When data is recieved from the PIC as a CSV, it is processed and turned into JSON format.
+6) The JSON data is then sent to ThingSpeak to be displayed.
+7) The python code also allows for the PIC to be controlled by the host device's keyboard.
+
+## Bash Script
+The bash script attached will create a virtual environment, install the necessary dependancies, and activate the virtual environment. Once it is ran the python script can be used without any issues.

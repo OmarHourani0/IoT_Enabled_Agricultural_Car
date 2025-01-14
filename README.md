@@ -12,7 +12,7 @@ Welcome to the IoT Enabled Agricultural Car page. This repository houses the sou
 - <span style="color:blue">[Hardware Setup](#hardware-setup)</span>
 - <span style="color:blue">[Software Setup](#software-setup)</span>
 - <span style="color:blue">[Explaination of Codes and Scripts](#Explaination-of-Code-and-Scripts)</span>
-
+- <span style="color:blue">[Other](#Other)</span>
 # Requirements
 - PIC16F877A microcontroller
 - Ultrasonic Distance Sensor
@@ -54,3 +54,10 @@ We wrote two python scripts, one works on Windows and the other works on Unix ba
 
 ## Bash Script
 The bash script attached will create a virtual environment, install the necessary dependancies, and activate the virtual environment. Once it is ran the python script can be used without any issues.
+
+
+# Other
+- Youtube Link: [https://youtu.be/1dOM5fpYLpE?si=kVBcAm1XXoWLi0Nx](url)
+- GitHub Link: [https://github.com/OmarHourani0/IoT_Enabled_Agricultural_Car.git](url)
+- Our Report : <span style="color:blue">[Report](EmbeddedProjectReport.pdf)</span>
+- Our Poster : <span style="color:blue">[Poster](Embedded_Project_Poster)</span>

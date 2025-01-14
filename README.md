@@ -22,3 +22,5 @@ Welcome to the IoT Enabled Agricultural Car page. This repository houses the sou
 - CRYSTAL Oscillator (8 MHz)
 - 12V Battery
 - 5V Battery
+
+# Hardware Setup

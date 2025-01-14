@@ -11,7 +11,7 @@ Welcome to the IoT Enabled Agricultural Car page. This repository houses the sou
 - <span style="color:blue">[Requirements](#requirements)</span>
 - <span style="color:blue">[Hardware Setup](#hardware-setup)</span>
 - <span style="color:blue">[Software Setup](#software-setup)</span>
-- <span style="color:blue">[Explaination of Codes and Scripts](#Explaination of Codes and Scripts)</span>
+- <span style="color:blue">[Explaination of Codes and Scripts](#Explaination-of-Code-and-Scripts)</span>
 
 # Requirements
 - PIC16F877A microcontroller
@@ -35,7 +35,7 @@ Welcome to the IoT Enabled Agricultural Car page. This repository houses the sou
 # Software Setup
 All the codes and scripts for this project can be found on this GitHub page. 
 
-# Explaination of Codes and Scripts
+# Explaination of Code and Scripts
 
 ## PIC16F877A Code
 The code for the PIC consists of multiple functions that work independently ensuring no clashes occur. Every peripheral is read from a seperate function, and every actuator is controlled by a seperate function. There are functions that make UART communication possible so the PIC can communicate with the PC via bluetooth. 

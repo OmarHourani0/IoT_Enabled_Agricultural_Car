@@ -57,7 +57,7 @@ The bash script attached will create a virtual environment, install the necessar
 
 
 # Other
-- Youtube Link: [https://youtu.be/1dOM5fpYLpE?si=kVBcAm1XXoWLi0Nx](https://youtu.be/1dOM5fpYLpE?si=kVBcAm1XXoWLi0Nx)
-- GitHub Link: [https://github.com/OmarHourani0/IoT_Enabled_Agricultural_Car.git](url)
+- Youtube Link: [Video](https://youtu.be/1dOM5fpYLpE?si=kVBcAm1XXoWLi0Nx)
+- GitHub Link: [Here](https://youtu.be/1dOM5fpYLpE?si=kVBcAm1XXoWLi0Nx)
 - Our Report : <span style="color:blue">[Report](EmbeddedProjectReport.pdf)</span>
 - Our Poster : <span style="color:blue">[Poster](Embedded_Project_Poster)</span>
